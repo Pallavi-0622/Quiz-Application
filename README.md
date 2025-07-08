@@ -6,9 +6,9 @@ This repository contains a simple Python-based quiz application, along with some
 
 test_code/
 ├── quiz/
-│   ├── quiz.py                    
-│   ├── quiz.db                    
-│   └── output-onlinepnftools.png  
+│   ├─ quiz.py                    
+│   ├─ quiz.db                    
+│   └─ output-onlinepnftools.png  
 │
 ├── app.py                         
 ├── file.py                        
