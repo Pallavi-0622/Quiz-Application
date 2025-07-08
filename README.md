@@ -6,14 +6,14 @@ This repository contains a simple Python-based quiz application, along with some
 
 test_code/
 ├── quiz/
-│   ├── quiz.py                    # Python script for quiz logic
-│   ├── quiz.db                    # SQLite database file storing questions
-│   └── output-onlinepnftools.png  # Sample output or UI representation
+│   ├── quiz.py                    
+│   ├── quiz.db                    
+│   └── output-onlinepnftools.png  
 │
-├── app.py                         # Additional Python script
-├── file.py                        # Additional Python script
-├── pass.py                        # Additional Python script
-└── README.md                      # Project documentation
+├── app.py                         
+├── file.py                        
+├── pass.py                        
+└── README.md                     
 
 ## 🎯 Features
 
